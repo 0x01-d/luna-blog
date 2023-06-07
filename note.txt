@@ -10,6 +10,9 @@ https://www.youtube.com/watch?v=UHquc40bRcs&t=5s
 render:
 https://www.youtube.com/watch?v=2K94-b3h3M8
 
+https://gohugo.io/getting-started/usage/
+
 hugo sever
 hugo server --buildDrafts
 hugo server -D
+hugo server --navigateToChanged
